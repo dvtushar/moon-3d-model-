@@ -1,0 +1,226 @@
+[
+  {
+    "": 0,
+    "Year": 1971,
+    "Day": 107,
+    "Lat": 48,
+    "Long": 35,
+    "Magnitude": 2.8
+  },
+  {
+    "": 1,
+    "Year": 1971,
+    "Day": 140,
+    "Lat": 42,
+    "Long": -24,
+    "Magnitude": 2
+  },
+  {
+    "": 2,
+    "Year": 1971,
+    "Day": 192,
+    "Lat": 43,
+    "Long": -47,
+    "Magnitude": 1.9
+  },
+  {
+    "": 3,
+    "Year": 1972,
+    "Day": 2,
+    "Lat": 54,
+    "Long": 101,
+    "Magnitude": 1.9
+  },
+  {
+    "": 4,
+    "Year": 1972,
+    "Day": 261,
+    "Lat": 12,
+    "Long": 46,
+    "Magnitude": 1
+  },
+  {
+    "": 5,
+    "Year": 1972,
+    "Day": 341,
+    "Lat": 51,
+    "Long": 45,
+    "Magnitude": 1.4
+  },
+  {
+    "": 6,
+    "Year": 1972,
+    "Day": 344,
+    "Lat": -20,
+    "Long": -80,
+    "Magnitude": 1.2
+  },
+  {
+    "": 7,
+    "Year": 1973,
+    "Day": 39,
+    "Lat": 33,
+    "Long": 35,
+    "Magnitude": 0.8
+  },
+  {
+    "": 8,
+    "Year": 1973,
+    "Day": 72,
+    "Lat": -84,
+    "Long": -134,
+    "Magnitude": 3.2
+  },
+  {
+    "": 9,
+    "Year": 1973,
+    "Day": 171,
+    "Lat": -1,
+    "Long": -71,
+    "Magnitude": 2.2
+  },
+  {
+    "": 10,
+    "Year": 1973,
+    "Day": 274,
+    "Lat": -37,
+    "Long": -29,
+    "Magnitude": 1.1
+  },
+  {
+    "": 11,
+    "Year": 1974,
+    "Day": 54,
+    "Lat": 36,
+    "Long": -16,
+    "Magnitude": 0.7
+  },
+  {
+    "": 12,
+    "Year": 1974,
+    "Day": 86,
+    "Lat": -48,
+    "Long": -106,
+    "Magnitude": 1.6
+  },
+  {
+    "": 13,
+    "Year": 1974,
+    "Day": 109,
+    "Lat": -37,
+    "Long": 42,
+    "Magnitude": 0.9
+  },
+  {
+    "": 14,
+    "Year": 1974,
+    "Day": 149,
+    "Lat": "",
+    "Long": "",
+    "Magnitude": 0.6
+  },
+  {
+    "": 15,
+    "Year": 1974,
+    "Day": 192,
+    "Lat": 21,
+    "Long": 88,
+    "Magnitude": 2.7
+  },
+  {
+    "": 16,
+    "Year": 1975,
+    "Day": 3,
+    "Lat": 29,
+    "Long": -98,
+    "Magnitude": 3.2
+  },
+  {
+    "": 17,
+    "Year": 1975,
+    "Day": 12,
+    "Lat": 75,
+    "Long": 40,
+    "Magnitude": 1.7
+  },
+  {
+    "": 18,
+    "Year": 1975,
+    "Day": 13,
+    "Lat": -2,
+    "Long": -51,
+    "Magnitude": 1.1
+  },
+  {
+    "": 19,
+    "Year": 1975,
+    "Day": 44,
+    "Lat": -19,
+    "Long": -26,
+    "Magnitude": 1.4
+  },
+  {
+    "": 20,
+    "Year": 1975,
+    "Day": 127,
+    "Lat": -49,
+    "Long": -45,
+    "Magnitude": 1.3
+  },
+  {
+    "": 21,
+    "Year": 1975,
+    "Day": 147,
+    "Lat": 3,
+    "Long": -58,
+    "Magnitude": 1.4
+  },
+  {
+    "": 22,
+    "Year": 1975,
+    "Day": 314,
+    "Lat": -8,
+    "Long": 64,
+    "Magnitude": 1.8
+  },
+  {
+    "": 23,
+    "Year": 1976,
+    "Day": 4,
+    "Lat": 50,
+    "Long": 30,
+    "Magnitude": 1.8
+  },
+  {
+    "": 24,
+    "Year": 1976,
+    "Day": 12,
+    "Lat": 38,
+    "Long": 44,
+    "Magnitude": 1.1
+  },
+  {
+    "": 25,
+    "Year": 1976,
+    "Day": 66,
+    "Lat": 50,
+    "Long": -20,
+    "Magnitude": 2.3
+  },
+  {
+    "": 26,
+    "Year": 1976,
+    "Day": 68,
+    "Lat": -19,
+    "Long": -12,
+    "Magnitude": 1.8
+  },
+  {
+    "": 27,
+    "Year": 1976,
+    "Day": 137,
+    "Lat": 77,
+    "Long": -10,
+    "Magnitude": 1.5
+  }
+]

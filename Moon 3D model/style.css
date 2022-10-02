@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+:root{
+  --primary-color: #171717;
+  --secondary-color: #444444;
+  --accent-color: #DA0037;
+  --complimentary-color: #c8ccd0;
+  --white-color: #eeeeee;
+  --black-color: #181818;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-family: 'Kaisei Tokumin', serif;
+  font-weight: 700;
+  /* overflow: hidden; */
+}
+
+#c {
+  background: black;
+
+}
+.btn-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: fixed;
+  bottom: 5px;
+  left: 2%;
+  width: 120px;
+}
+
+
+
+
+.quality-select {
+  position: fixed;
+  top: 20px;
+  right: 5px;
+}
+
+h1, p{
+    color: var(--complimentary-color);
+}
+
+.accent{
+    color: var(--accent-color);
+}
+
+.flex-container{
+  width: 101.1%;
+    height: 30vh;
+    background-color:black;
+    align-items: center;
+    
+}
+
+.main-content{
+  font-size: 40px;
+    width: 70%;
+    position: relative;
+    left:15%;
+    padding: 0 2em;
+    padding-bottom: 30px;
+}
+
+.main-content h1{
+    font-size: 3.9rem;
+    text-transform: uppercase;
+    margin-bottom: 0.8em;
+}
+
+.main-content p{
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    margin-bottom: 0.7em;
+}
+
+.main-content a{
+    font-size: 1.8rem;
+    text-decoration: none;
+    background-color:white;
+    color: var(--black-color);
+    display: flex;
+    align-self: flex-start;
+    padding: 0.5rem 1rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+a{
+  width: 120px;
+  border-radius: 50px;
+}
